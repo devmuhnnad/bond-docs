@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Flutter Bond. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Flutter Bond.`,
       },
       prism: {
         theme: lightCodeTheme,
